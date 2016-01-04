@@ -1,12 +1,12 @@
-# Script Name		: AutoReport.py
-# Author			: zhd
-# Created			: December 31, 2015
-# Last Modified		: 
-# Version			: 1.0
+# Script Name                    : AutoReport.py
+# Author                    : zhd
+# Created                    : December 31, 2015
+# Last Modified                    : 
+# Version                    : 1.0
 
-# Modifications		: 
+# Modifications                    : 
 
-# Description		: This script is automatically generated report.
+# Description                    : This script is automatically generated report.
 
 import os, time, datetime
 import urllib
