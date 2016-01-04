@@ -5,6 +5,7 @@ Auto generate report
 
 ### Plantforms
 - Windows XP/7
+- chrome > 12.0
 
 ### Dependences
 - urllib
