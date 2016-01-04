@@ -1,10 +1,20 @@
+# Script Name		: AutoReport.py
+# Author			: zhd
+# Created			: December 31, 2015
+# Last Modified		: 
+# Version			: 1.0
+
+# Modifications		: 
+
+# Description		: This script is automatically generated report.
+
 import os, time, datetime
 import urllib
 from selenium import webdriver
 from splinter import Browser
 
 bo = Browser('chrome')
-url = "http://192.168.1.102:8080/report/print.html"
+url = "http://192.168.1.102:8080/report/print.html"     # The report website.
 
 def dwonload(city, area, date):
     '''
